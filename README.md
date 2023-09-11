@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Bayes Ahmed Shoharto
 
-> Software Developer at [eRider](https://website.erider.my/)
+> Software Developer at [Intrinsik](https://www.intrinsik.ly/)
