@@ -1,20 +1,9 @@
-
-
-<!--
-**shoharto/shoharto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
-Here are some ideas to get you started:
+I'm Bayes Ahmed Shoharto,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Bayes Ahmed Shoharto
-
-> Software Developer at [Intrinsik](https://www.intrinsik.ly/)
+- 🔭 I’m currently working on: Exciting projects using AWS, JavaScript, Kubernetes, and Web Development with a focus on Node.js and React.js.
+- 🌱 I’m currently learning:  AWS serverless, Kubernetes, and Postgres SQL.
+- 👯 I’m looking to collaborate on: Innovative software development projects, especially those involving AWS, web development, and cloud technologies.
+- 🤔 I’m looking for help with: Sharing knowledge and insights about JavaScript, AWS, and related technologies.
+- 💬 Ask me about: JavaScript and AWS.
+- ⚡ Fun fact: In my free time, I love to explore the outdoors, go hiking, and enjoy outdoor games!
